@@ -5,9 +5,10 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>ShopmeProject</name>
-  <description>Root project</description>
+  <description>RootProject</description>
   
   <modules>
-	  <module>ShopmeCommon</module>
+  	<module>ShopmeCommon</module>
+  	<module>ShopmeWebParent</module>
   </modules>
 </project>
